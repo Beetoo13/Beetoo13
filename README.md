@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beto</h1>
-<h3 align="center">A passionate developer who always tries to learn from everyone!</h3>
+<h3 align="center">A developer who always tries to learn from everyone!</h3>
 
 - 🔭 I’m currently working using **Javascript and Java**
 
